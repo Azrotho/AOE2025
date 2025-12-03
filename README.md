@@ -7,3 +7,5 @@ l'objectif sera de faire les casse-tête avec un langage différent par jour *(�
 | Jour                                                                  | Langage       | Sujet                                                 | Status        |
 | ---------                                                             | --------      |   ---                                                 |-----------   |
 | [Jour 1](https://github.com/Azrotho/AOE2025/tree/main/day1)           | Python        |    [Sujet](https://adventofcode.com/2025/day/1)       | 🌟            |
+| [Jour 2](https://github.com/Azrotho/AOE2025/tree/main/day2)           | Java          |    [Sujet](https://adventofcode.com/2025/day/2)       | 🌟            |
+
